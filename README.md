@@ -2,8 +2,6 @@
 ###本地相册浏览器
 
 ![](http://b358.photo.store.qq.com/psb?/V10OjX180eCQU7/iT2oFONWGv4N4NmGHBwmp8rHOn406DtfP4iOj6IlEIo!/c/dGYBAAAAAAAA&bo=oAAdAaAAHQECCCw!&rf=viewer_311)<br>
-![](http://upload-images.jianshu.io/upload_images/1519934-90c3d0b4828ce1b2.gif?imageMogr2/auto-orient/strip)<br>
-
 
 **本地相册浏览器点击跳转控制器后点击拍照得到的影像会在左上角展示出来,点击展示的图片就会进入到本地图片浏览.**
 项目进行了初步封装后续会进一步封装
