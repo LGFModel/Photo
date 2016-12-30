@@ -1,7 +1,7 @@
 # Photo
 ###本地相册浏览器
 
-![](http://a3.qpic.cn/psb?/V10OjX180eCQU7/L0gK9IRTa.Y3CWAdp2KPst1.9pztT1IzPS2QNzPTcWY!/b/dGYBAAAAAAAA&ek=1&kp=1&pt=0&bo=lgALAZYACwECACQ!&tm=1483077600&sce=0-12-12&rf=0-18)<br>
+![](http://a3.qpic.cn/psb?/V10OjX180eCQU7/L0gK9IRTa.Y3CWAdp2KPst1.9pztT1IzPS2QNzPTcWY!/b/dGYBAAAAAAAA&ek=1&kp=1&pt=0&bo=lgALAZYACwECACQ!&tm=1483077600&sce=60-2-2&rf=0-0)<br>
 ![](http://upload-images.jianshu.io/upload_images/1519934-90c3d0b4828ce1b2.gif?imageMogr2/auto-orient/strip)<br>
 
 
