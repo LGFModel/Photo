@@ -1,8 +1,6 @@
 # Photo
 ###本地相册浏览器
 
-![](http://b358.photo.store.qq.com/psb?/V10OjX180eCQU7/iT2oFONWGv4N4NmGHBwmp8rHOn406DtfP4iOj6IlEIo!/c/dGYBAAAAAAAA&bo=oAAdAaAAHQECCCw!&rf=viewer_311)<br>
-
 **本地相册浏览器点击跳转控制器后点击拍照得到的影像会在左上角展示出来,点击展示的图片就会进入到本地图片浏览.**
 项目进行了初步封装后续会进一步封装
 ```
@@ -37,5 +35,6 @@
 
 }
 ```
-
+-图片一直上传不成功,放到我的简书里面可以看到效果
+<a href = "http://www.jianshu.com/writer#/notebooks/3107466/notes/8058119">[记住你姓李]
 
