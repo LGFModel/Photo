@@ -35,6 +35,6 @@
 
 }
 ```
+注:连接Xcode运行程序后,由于NSLog打印引起的性能问题会导滑动图片致卡顿,解决方法拔掉数据线就OK
 -图片一直上传不成功,放到我的简书里面可以看到效果
 <a href = "http://www.jianshu.com/writer#/notebooks/3107466/notes/8058119">[记住你姓李]
-
