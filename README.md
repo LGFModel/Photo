@@ -5,7 +5,7 @@
 
 项目进行了初步封装后续会进一步封装
 
-按钮的添加根据需求添加想返回按钮,使用 push 方法跳转控制器的就不需要使用返回按钮,而使用 present 方法跳转的就需要返回按钮
+按钮的添加根据需求添加,像返回按钮使用 push 方法跳转控制器的就不需要使用返回按钮,而使用 present 方法跳转的就需要返回按钮
 ```
 /** 添加拍摄按钮 */
 - (void)addShootBtn:(UIButton *)shootBtn Image:(UIImage *)image title:(NSString *)title color:(UIColor *)color frame:(CGRect)rect;
