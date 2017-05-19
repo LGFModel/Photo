@@ -41,7 +41,6 @@
 **注:连接Xcode运行程序后,由于NSLog打印引起的性能问题会导滑动图片致卡顿,解决方法运行成功后拔掉数据线就OK**
 
 -图片一直上传不成功,放到我的简书里面可以看到效果   <a href="http://www.jianshu.com/p/82130acba4de"> [记住你姓李]
-![本地相册.gif](http://upload-images.jianshu.io/upload_images/1519934-a0ef3f4f8eb3156b.gif?imageMogr2/auto-orient/strip)
     <img src="http://upload-images.jianshu.io/upload_images/1519934-a0ef3f4f8eb3156b.gif?imageMogr2/auto-orient/strip" alt="">
 
     
