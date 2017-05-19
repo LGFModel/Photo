@@ -42,5 +42,5 @@
 
 -图片一直上传不成功,放到我的简书里面可以看到效果
     <img src="http://upload-images.jianshu.io/upload_images/1519934-a0ef3f4f8eb3156b.gif?imageMogr2/auto-orient/strip" alt="">
-   
+   http://upload-images.jianshu.io/upload_images/1519934-a0ef3f4f8eb3156b.gif?imageMogr2/auto-orient/strip
     [记住你姓李]
